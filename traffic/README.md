@@ -1,0 +1,3 @@
+I started by using one hidden layer with two times the number of categories, this gave me an accuracy of only 0.0559 with a loss of 3.5042, next i increased the number of filters to 10 times the number of categories increasing the accuracy to 0.9398 and decreasing the loss to 0.2833. Lastly I changed the number of filters to 25 times the number of categories wich didn't change much the final values.
+Then i set the number of the hidden layer to 10 times the number of categories again but added another hidden layer. This didn't work since it changed the accuracy to 0.7427 and the loss to 0.9040.
+
